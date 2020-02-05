@@ -22,7 +22,7 @@ bool checkPosition(vector<vector<int>> &v,int row, int col){
     //if the position is safe then return true
     return true; 
 }
-
+// in priority queue childs at same level has same priority.
 void ucs(priority_queue<p,vector<p>,greater<p>> &open, vector<vector<int>> &v){
     // push blank chess board and cost = 0 in open
     open.push(make_pair(0,v));
