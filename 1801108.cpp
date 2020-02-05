@@ -31,8 +31,8 @@ void ucs(priority_queue<p,vector<p>,greater<p>> &open, vector<vector<int>> &v){
         for(int j = 0; j < 8; ++j){
             p storePair = open.top();
             vector<vector<int>> vec = storePair.second;
-            int t = storePair.first;
-            if(checkPosition(vec,j,t)){  
+            int t = storePair.first; // column number
+            if(checkPosition(vec,j,t)){  //  if position is feasible
                 if(t == 7){ // since last queen so solution is ready. so we print it.
                      vec[j][t] = 1;
                      
@@ -46,10 +46,10 @@ void ucs(priority_queue<p,vector<p>,greater<p>> &open, vector<vector<int>> &v){
                         cout << endl;
                     }
                     cout << endl;
-                }else{
+                }else{ 
                     vec[j][t] = 1;
                    
-                    open.push(make_pair(t+1,vec));
+                    open.push(make_pair(t+1,vec)); // pushing the current state in queue
                 }  
             }
         }
