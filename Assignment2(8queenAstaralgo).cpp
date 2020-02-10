@@ -42,7 +42,7 @@ bool checkPosition(vector<vector<int>> &v,int row, int col){
 }
 
 
-
+// ***** heuristic fuction*****
 // counting number of feasible blocks in current state
 // storing positon of queen in array pe(row)and q(colm).
 // now checking blocks if feasible or not and increasing count if feasible;
