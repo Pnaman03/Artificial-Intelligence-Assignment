@@ -6,3 +6,4 @@ Assignment 1 :
 
 Assignment 2 :
 8 Queen problem using A-star algoritm with suitable huristic function.(implemented using priority queue with priority as sum of g(n) and h(n))
+Heuristic Function : No. of feasible posution/blocks in current state
