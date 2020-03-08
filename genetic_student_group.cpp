@@ -1,3 +1,16 @@
+/*
+Group n students in 3 groups so that the diversity(i.e absolute differnce of marks) in each group is minimum.
+chromosome:
+array of group integer : first 3 integer represents group representative of their group and 4th intger is the fitness value of that chromosome.
+population size : 
+50 chrosomes
+selection and crossover :
+selecting two parent by tournament selection and crossing using a random cross over point.
+mutation :
+selecting random y individuals from the cross over population and mutating or changing a single rand group representavi to increase diversity
+and then replacing old popul. by the new generated and mutated population.
+*/
+
 #include <bits/stdc++.h>
 #include <math.h>
 using namespace std;
@@ -122,8 +135,8 @@ int main()
      }
     int pop[50][4];                    // population of 50 individual
 
-    chrom(a,n,pop,50);
-     for(i=0;i<n;i++)
+    chrom(a,n,pop,50);                    // generating popul.
+/*     for(i=0;i<n;i++)
         cout<<a[i]<<" ";
      cout<<endl;
 
@@ -134,7 +147,7 @@ int main()
          }
          cout<<endl;
     }
-
+*/
     int gmi = 99999999;
     int gminimum[4];
     int itr = 2000;
