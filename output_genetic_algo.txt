@@ -1,4 +1,6 @@
 1. Genetic Algorithm    --------------------------------------------------------------------------------------------------------------------------------------------------
+NOTE : OUTPUT WILL CHANGE WITH EVERY EXCUTION SINCE MARKS ARE RANDOMLY ASSINGED TO STUDENTS. 
+
 
 Enter no. of students: 
 100
