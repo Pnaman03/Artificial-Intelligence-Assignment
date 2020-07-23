@@ -1,0 +1,7 @@
+1. UCS 
+
+2. A*
+
+3. Genetic Algorithm
+
+4. Game Of Sticks
