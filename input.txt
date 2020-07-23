@@ -1,6 +1,6 @@
-1. UCS 
+1. 8 Queen UCS 
 
-2. A*
+2. 8 Queen A*
 
 3. Genetic Algorithm
 
