@@ -8,4 +8,31 @@
    Input:
    100                                       // N = number of total student
 
-4. Game Of Sticks
+4. Game Of Sticks 
+(Run this program on terminal or codeblocks it will not works on online ide due to use on windows.h librabry for sleep functions)
+
+2 Players-----------------------------
+Input:
+1
+21
+2
+3
+3
+1
+3
+3
+2
+3
+      
+1 player--------------------------------
+Input:
+2
+21
+2
+3
+1
+2
+3
+
+
+      
