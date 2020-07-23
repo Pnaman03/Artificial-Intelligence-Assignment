@@ -5,8 +5,8 @@
     No input since Board is empty initialy.
 
 3. Genetic Algorithm
-   Input:
-   100                                       // N = number of total student
+Input:
+100                                       // N = number of total student
 
 4. Game Of Sticks 
 (Run this program on terminal or codeblocks it will not works on online ide due to use on windows.h librabry for sleep functions)
