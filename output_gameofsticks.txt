@@ -85,4 +85,47 @@ Player lost
 -------------------GAME OVER---------------
 
 AI vs AI ----------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
+------------------------------GAME----------------------------
+Choose 1 option
+1. Two Players
+2. One player
+3. AI vs AI
+3
+Enter no. of Sticks
+21
+RULE :  Enter no. between 1 and 3
+toss
+CPU 1 won toss
+-----------------------------start-----------------------------
+CPU 1 chance
+CPU 1 selects : 1
+Remaining Sticks :  20
+CPU 2 chance
+CPU 2 selects : 3
+Remaining Sticks :  17
+CPU 1 chance
+CPU 1 selects : 1
+Remaining Sticks :  16
+CPU 2 chance
+CPU 2 selects : 3
+Remaining Sticks :  13
+CPU 1 chance
+CPU 1 selects : 1
+Remaining Sticks :  12
+CPU 2 chance
+CPU 2 selects : 3
+Remaining Sticks :  9
+CPU 1 chance
+CPU 1 selects : 1
+Remaining Sticks :  8
+CPU 2 chance
+CPU 2 selects : 3
+Remaining Sticks :  5
+CPU 1 chance
+CPU 1 selects : 1
+Remaining Sticks :  4
+CPU 2 chance
+CPU 2 selects : 3
+Remaining Sticks :  1
+CPU 1 lost
+-------------------GAME OVER---------------
