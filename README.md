@@ -1,6 +1,9 @@
 # Artificial intelligence Assignment
+<br/>
 
 ### Input File : [input_for_all4ques.txt](https://github.com/Pnaman03/Artificial-Intelligence-Assignment/blob/master/input_for_all4ques.txt)
+
+<br/>
 
 ## Assignment 1 : 8 Queen problem using UCS.
 
