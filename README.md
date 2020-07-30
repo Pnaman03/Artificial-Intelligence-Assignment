@@ -1,6 +1,6 @@
 # Artificial intelligence Assignment
 **Input File :** [input_for_all4ques.txt](https://github.com/Pnaman03/Artificial-Intelligence-Assignment/blob/master/input_for_all4ques.txt)
-## Assignment 1 : 8 queen problem using UCS.
+## Assignment 1 : 8 Queen problem using UCS.
 
 Implemented using queue and pushing childs and exploring again in the order of push i.e BFS since cost is same so this is UCS only.
 
@@ -34,7 +34,7 @@ Implemented using queue and pushing childs and exploring again in the order of p
 **(Run on codeblocks or terminal for Interactive interface)** 
 Game of sticks in which a Player can picks 1,2,3 sticks in one move using Min-Max with Alpha Beta Pruning.\
 Need to develop 
-1. 1 Player 2. 2 player  and 3. AI vs AI 
+1. 1 Player\ 2. 2 player\  3. AI vs AI 
 
 
 **Code File Name :** [game_of_sticks.cpp](https://github.com/Pnaman03/Artificial-Intelligence-Assignment/blob/master/game_of_sticks.cpp)\
