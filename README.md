@@ -9,6 +9,7 @@ Implemented using queue and pushing childs and exploring again in the order of p
 **Output File :** [output_8queen_UCS.txt](https://github.com/Pnaman03/Artificial-Intelligence-Assignment/blob/master/output_8queen_UCS.txt)\
 **Run Instruction :** ./a.out\
 **State space File :**  [Assigment1(doc file).doc](https://github.com/Pnaman03/Artificial-Intelligence-Assignment/blob/master/Assigment1(doc%20file).doc) 
+
 <br/><br/>
 ## Assignment 2 : 8 Queen problem using A-star algorithm
 
