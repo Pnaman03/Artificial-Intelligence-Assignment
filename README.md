@@ -9,7 +9,7 @@ Implemented using queue and pushing childs and exploring again in the order of p
 **Output File :** [output_8queen_UCS.txt](https://github.com/Pnaman03/Artificial-Intelligence-Assignment/blob/master/output_8queen_UCS.txt)\
 **Run Instruction :** ./a.out\
 **State space File :**  [Assigment1(doc file).doc](https://github.com/Pnaman03/Artificial-Intelligence-Assignment/blob/master/Assigment1(doc%20file).doc) 
-
+<br/><br/>
 ## Assignment 2 : 8 Queen problem using A-star algorithm
 
 8 Queen problem using A-star algoritm with suitable huristic function.(implemented using priority queue with priority as sum of g(n) and h(n))
@@ -22,7 +22,7 @@ Implemented using queue and pushing childs and exploring again in the order of p
 **Output File :**[output_8quuen_A*algo.txt](https://github.com/Pnaman03/Artificial-Intelligence-Assignment/blob/master/output_8quuen_A*algo)
 
 
-
+<br/><br/>
 ## Assignment 3 : Group n students in 3 groups so that the diversity(i.e absolute differnce of marks) in each group is minimum.
 
 **Chromosome :** array of group integer : first 3 integer represents group representative of their group and 4th intger is the fitness value of that chromosome.\
@@ -35,7 +35,7 @@ Implemented using queue and pushing childs and exploring again in the order of p
 **Run Instruction :** ./a.out\
 **Output File :** [output_genetic_algo.txt](https://github.com/Pnaman03/Artificial-Intelligence-Assignment/blob/master/output_genetic_algo.txt)
 
-
+<br/><br/>
 ## Assignment 4 : Game Of Sticks
 **(Run on codeblocks or terminal for Interactive interface)**
 
