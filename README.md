@@ -34,8 +34,8 @@ Implemented using queue and pushing childs and exploring again in the order of p
 **(Run on codeblocks or terminal for Interactive interface)** 
 Game of sticks in which a Player can picks 1,2,3 sticks in one move using Min-Max with Alpha Beta Pruning.\
 Need to develop 
-1. 1 Player\ 
-2. 2 player\  
+1. 1 Player
+2. 2 player  
 3. AI vs AI 
 
 
