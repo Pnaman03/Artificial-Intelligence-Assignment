@@ -1,15 +1,15 @@
 # Artificial intelligence Assignment
-
+**Input File :** [input_for_all4ques.txt](https://github.com/Pnaman03/Artificial-Intelligence-Assignment/blob/master/input_for_all4ques.txt)
 ## Assignment 1 : 8 queen problem using UCS.
 
 Implemented using queue and pushing childs and exploring again in the order of push i.e BFS since cost is same so this is UCS only.
 
-**Code File Name :** Assignment1(8queenUCS).cpp\
+**Code File Name :** [Assignment1(8queenUCS).cpp](https://github.com/Pnaman03/Artificial-Intelligence-Assignment/blob/master/Assignment1(8queenUCS).cpp)\
 **Complilation Instruction :**  Just Run the code\
-**Output File :** output_8queen_UCS.txt\
-**State space File :**  Assigment1(doc file).doc 
+**Output File :** [output_8queen_UCS.txt](https://github.com/Pnaman03/Artificial-Intelligence-Assignment/blob/master/output_8queen_UCS.txt)\
+**State space File :**  [Assigment1(doc file).doc](https://github.com/Pnaman03/Artificial-Intelligence-Assignment/blob/master/Assigment1(doc%20file).doc) 
 
-## Assignment 2 : 8 Queen problem using A-star algoritm
+## Assignment 2 : 8 Queen problem using A-star algorithm
 
 8 Queen problem using A-star algoritm with suitable huristic function.(implemented using priority queue with priority as sum of g(n) and h(n))
 
@@ -17,7 +17,7 @@ Implemented using queue and pushing childs and exploring again in the order of p
 
 **Code File Name :** [Assignment2(8queenAstaralgo).cpp](https://github.com/Pnaman03/Artificial-Intelligence-Assignment/blob/master/Assignment2(8queenAstaralgo).cpp)\
 **Complilation Instruction :**    Just Run the code\
-**Output File :**
+**Output File :**[output_8quuen_A*algo.txt](https://github.com/Pnaman03/Artificial-Intelligence-Assignment/blob/master/output_8quuen_A*algo.txt)
 
 ## Assignment 3 : Group n students in 3 groups so that the diversity(i.e absolute differnce of marks) in each group is minimum.
 
@@ -26,9 +26,9 @@ Implemented using queue and pushing childs and exploring again in the order of p
 **selection and crossover :** selecting two parent by tournament selection and crossing using a random cross over point.\
 **mutation :** selecting random y individuals from the cross over population and mutating or changing a single rand group representavi to increase diversity and then replacing old popul. by the new generated and mutated population.\
 
-**Code File Name :**\
+**Code File Name :** [genetic_student_group.cpp](https://github.com/Pnaman03/Artificial-Intelligence-Assignment/blob/master/genetic_student_group.cpp)\
 **Complilation Instruction :**    Just Run the code\
-**Output File :**\
+**Output File :** [output_genetic_algo.txt](https://github.com/Pnaman03/Artificial-Intelligence-Assignment/blob/master/output_genetic_algo.txt)\
 
 ## Assignment 4 : Game Of Sticks
 
@@ -37,8 +37,8 @@ Need to develop \
 1. 1 Player 2. 2 player  and 3. AI vs AI 
 
 
-**Code File Name :**\
+**Code File Name :** [game_of_sticks.cpp](https://github.com/Pnaman03/Artificial-Intelligence-Assignment/blob/master/game_of_sticks.cpp)\
 **Complilation Instruction :**    Just Run the code: Run the code with input as given in input file with each playing system.\
-**Output File :**\
+**Output File :**  [output_gameofsticks.txt](https://github.com/Pnaman03/Artificial-Intelligence-Assignment/blob/master/output_gameofsticks.txt)\
 
 
