@@ -1,7 +1,7 @@
 # Artificial intelligence Assignment
-<br/>
+
 **Input File :** [input_for_all4ques.txt](https://github.com/Pnaman03/Artificial-Intelligence-Assignment/blob/master/input_for_all4ques.txt)
-<br/>
+
 ## Assignment 1 : 8 Queen problem using UCS.
 
 Implemented using queue and pushing childs and exploring again in the order of push i.e BFS since cost is same so this is UCS only.
