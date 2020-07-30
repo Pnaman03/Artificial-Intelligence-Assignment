@@ -31,8 +31,9 @@ Implemented using queue and pushing childs and exploring again in the order of p
 **Output File :** [output_genetic_algo.txt](https://github.com/Pnaman03/Artificial-Intelligence-Assignment/blob/master/output_genetic_algo.txt)
 
 ## Assignment 4 : Game Of Sticks
-**(Run on codeblocks or terminal for Interactive interface)**\ 
-Game of sticks in which a Player can picks 1,2,3 sticks in one move using Min-Max with Alpha Beta Pruning.\
+**(Run on codeblocks or terminal for Interactive interface)**
+
+\Game of sticks in which a Player can picks 1,2,3 sticks in one move using Min-Max with Alpha Beta Pruning.\
 Need to develop 
 1. 1 Player
 2. 2 player  
