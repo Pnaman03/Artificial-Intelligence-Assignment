@@ -22,6 +22,8 @@ Implemented using queue and pushing childs and exploring again in the order of p
 **Output File :**[output_8quuen_A*algo.txt](https://github.com/Pnaman03/Artificial-Intelligence-Assignment/blob/master/output_8quuen_A*algo)
 
 
+
+
 ## Assignment 3 : Group n students in 3 groups so that the diversity(i.e absolute differnce of marks) in each group is minimum.
 
 **Chromosome :** array of group integer : first 3 integer represents group representative of their group and 4th intger is the fitness value of that chromosome.\
@@ -33,6 +35,8 @@ Implemented using queue and pushing childs and exploring again in the order of p
 **Complilation Instruction :**    g++ genetic_student_group.cpp\
 **Run Instruction :** ./a.out\
 **Output File :** [output_genetic_algo.txt](https://github.com/Pnaman03/Artificial-Intelligence-Assignment/blob/master/output_genetic_algo.txt)
+
+
 
 
 ## Assignment 4 : Game Of Sticks
