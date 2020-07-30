@@ -18,7 +18,7 @@ Implemented using queue and pushing childs and exploring again in the order of p
 
 **Code File Name :** [Assignment2(8queenAstaralgo).cpp](https://github.com/Pnaman03/Artificial-Intelligence-Assignment/blob/master/Assignment2(8queenAstaralgo).cpp)\
 **Complilation Instruction :**    g++ Assignment2(8queenAstaralgo).cpp\
-**Run Instruction :** ./a.out
+**Run Instruction :** ./a.out\
 **Output File :**[output_8quuen_A*algo.txt](https://github.com/Pnaman03/Artificial-Intelligence-Assignment/blob/master/output_8quuen_A*algo)
 
 ## Assignment 3 : Group n students in 3 groups so that the diversity(i.e absolute differnce of marks) in each group is minimum.
