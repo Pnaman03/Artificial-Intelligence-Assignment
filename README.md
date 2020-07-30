@@ -4,9 +4,9 @@
 
 Implemented using queue and pushing childs and exploring again in the order of push i.e BFS since cost is same so this is UCS only.
 
-**Code File Name :**
-**Complilation Instruction :**  Just Run the code
-**Output File :**
+**Code File Name :** \
+**Complilation Instruction :**  Just Run the code\
+**Output File :**\
 **State space File :** 
 
 ## Assignment 2 : 8 Queen problem using A-star algoritm
